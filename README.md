@@ -530,6 +530,7 @@ Note - It's still in Alpha stage
 - [Lame](http://lame.sourceforge.net/) - A high quality free and open-source MP3 encoder
 
 - [TuneFlow](https://tuneflow.com/) - A next-gen DAW that helps you generate melody, beats, or a whole song
+  [Bass Booster](https://tuneflow.com/) - An advance browser based bass booster tool where you can boost of any song ,audio or even voice.
 
 - [Viper4Android](https://github.com/AndroidAudioMods/ViPER4Android) - Viper4Android is an audio processing tool for rooted Android devices
 
